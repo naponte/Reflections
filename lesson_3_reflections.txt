@@ -17,3 +17,9 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 -I would probably use Google Docs or something similar
 -What would be easier/harder would depend on what I used
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+-Allows one to work on changes while still having the main branch be a working project
+-working in the main branch streamlines things by having one unified branch
+-working in seperate branches allows multiple people to edit
