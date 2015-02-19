@@ -1,1 +1,3 @@
 When would you want to use a remote repository rather than keeping all your work local?
+-When you're unable to use a particular computer for too long
+-When you want others to edit a file as well
